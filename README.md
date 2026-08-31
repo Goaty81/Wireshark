@@ -1,2 +1,2 @@
 # Wireshark
-In this Repository ill be report findings in Wireshark!
+In this Repository ill be doing report findings in Wireshark!

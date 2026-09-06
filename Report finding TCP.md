@@ -40,7 +40,6 @@ The captured traffic demonstrates a successful TCP connection establishment usin
 
 <ins>FIN TCP Handshake</ins>
 
-
 Objective
 
 Identify and analyse the TCP FIN three-way handshake within the packet capture.

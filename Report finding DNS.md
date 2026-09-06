@@ -14,7 +14,8 @@ Relevant packet:
 
 Observation:
 
-Screenshot 1:
+Screenshot 1:<img width="970" height="284" alt="image" src="https://github.com/user-attachments/assets/eec89bb5-7126-4fd7-936d-cd67eabebe41" />
+
 
 Screenshot 2:
 

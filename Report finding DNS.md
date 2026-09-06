@@ -38,7 +38,7 @@ Screenshot 2: <img width="1004" height="301" alt="image" src="https://github.com
 
 Ports: 49665, 53
 
-Conclusion: The Client Host has sent a HTTPS query of the Server host to the DNS server through a IPv4 connection and ports 49665 and 53 (consisting of 592 bits). The DNS server has then sent a response back to the Client Host about the HTTPS query and has verified that it has a HTTPS Domain name for the Server Host (consisting of bits).
+Conclusion: The Client Host has sent a HTTPS query of the Server host to the DNS server through a IPv4 connection and ports 49665 and 53 (consisting of 592 bits). The DNS server has then sent a response back to the Client Host about the HTTPS query and has verified that it has a HTTPS Domain name for the Server Host (consisting of 1584 bits).
 
 You may also see that the answer is "Unsolicited:True", This could mean that it hasn’t matched another query to this packet although it knows the Client Host sent one or this could be signs of a security flaw.
 

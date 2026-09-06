@@ -71,7 +71,8 @@ Relevant packet: Packet numbers 1099, 1100
 
 Observation: The Client Host has sent a query about the Server Host to the DNS server.
 
-Screenshot 1:
+Screenshot 1: <img width="959" height="288" alt="image" src="https://github.com/user-attachments/assets/9abed588-532e-473a-bf36-1913ffbf8798" />
+
 
 Screenshot 2:
 

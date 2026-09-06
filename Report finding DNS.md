@@ -46,3 +46,19 @@ Security flaws associated with this are:
 
   - DNS Cache Poisoning/ Spoofing
   - DDoS attack
+
+<ins>IPV4</ins>
+
+Filter: DNS
+
+Relevant packet: Packet numbers 
+
+Observation: The Client Host has sent a query about the Server Host to the DNS server
+
+Screenshot 1:
+
+Screenshot 2:
+
+Ports: 
+
+Conclusion:

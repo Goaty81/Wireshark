@@ -27,7 +27,9 @@ Analysis:
 Packets 267, 289 and 291 show the SYN TCP handshake in Wireshark.
 
 SYN — The client initiates a TCP connection.
+
 SYN/ACK — The server acknowledges the request and indicates that it is ready to establish the connection.
+
 ACK — The client acknowledges the server's response.
 
 The connection is therefore successfully established.
@@ -58,7 +60,9 @@ Analysis:
 Packets 380, 384 and 385 show the FIN TCP handshake in Wireshark.
 
 FIN — The client initiates a TCP connection.
+
 FIN/ACK — The server acknowledges the request and indicates that it is ready to terminate the connection.
+
 ACK — The client acknowledges the server's response.
 
 The connection is therefore successfully terminated.

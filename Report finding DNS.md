@@ -61,4 +61,20 @@ Screenshot 2:<img width="962" height="300" alt="image" src="https://github.com/u
 
 Ports: 50291 (unassigned port), 53 (DNS)
 
-Conclusion: This time instead of a HTTPS query it is a IPv4 query, The Client Host has sent a query to see if the DNS server has a domain connection with the Server host through IPv4, The DNS server has responded With another "true" answer.This 
+Conclusion: This time instead of a HTTPS query it is a IPv4 query, The Client Host has sent a query to see if the DNS server has a domain connection with the Server host through IPv4, The DNS server has responded with another "true" answer. This signifies that there is a IPv4 connection!
+
+<ins>IPv6</ins>
+
+Filter: DNS
+
+Relevant packet: Packet numbers 1099, 1100
+
+Observation: The Client Host has sent a query about the Server Host to the DNS server.
+
+Screenshot 1:
+
+Screenshot 2:
+
+Ports: 50291 (unassigned port), 53 (DNS)
+
+Conclusion:

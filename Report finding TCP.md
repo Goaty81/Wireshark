@@ -6,7 +6,32 @@ In this document we will see how the TCP handshake is shown in Wireshark!
 
 Here we have the packets that we will be looking at, As you can already see the SYN handshake and the FIN handshake already in the information to the right but lets look at it more in depth!
 
-
-
 <ins>SYN Handshake</ins>
 
+Objective
+
+Identify and analyse the TCP SYN three-way handshake within the packet capture(PCAP).
+
+Filter: TCP
+Evidence:
+
+
+
+Analysis
+
+Packets 1–3 demonstrate the TCP three-way handshake.
+
+SYN — The client initiates a TCP connection.
+SYN/ACK — The server acknowledges the request and indicates that it is ready to establish the connection.
+ACK — The client acknowledges the server's response.
+
+The connection is therefore successfully established.
+
+Screenshot
+
+
+
+
+Conclusion
+
+The captured traffic demonstrates a successful TCP connection establishment using the standard three-way handshake.

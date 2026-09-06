@@ -15,6 +15,9 @@ Identify and analyse the TCP SYN three-way handshake within the packet capture(P
 Filter: TCP
 Evidence:
 
+<img width="1057" height="765" alt="image" src="https://github.com/user-attachments/assets/d1fe274a-966c-4abc-8b02-1e9ea86bc829" />
+
+
 
 
 Analysis

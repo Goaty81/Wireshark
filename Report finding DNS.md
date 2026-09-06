@@ -61,21 +61,20 @@ Screenshot 2:<img width="962" height="300" alt="image" src="https://github.com/u
 
 Ports: 50291 (unassigned port), 53 (DNS)
 
-Conclusion: This time instead of a HTTPS query it is a IPv4 query, The Client Host has sent a query to see if the DNS server has a domain connection with the Server host through IPv4, The DNS server has responded with another "true" answer. This signifies that there is a IPv4 connection!
+Conclusion: This time instead of a HTTPS query it is a IPv4 query, The Client Host has sent a query to see if the DNS server has a domain connection with the Server host through IPv4(Denoted by the A), The DNS server has responded with another "true" answer. This signifies that there is a IPv4 connection!
 
 <ins>IPv6</ins>
 
 Filter: DNS
 
-Relevant packet: Packet numbers 1099, 1100
+Relevant packet: Packet numbers 1098, 1101
 
 Observation: The Client Host has sent a query about the Server Host to the DNS server.
 
 Screenshot 1: <img width="959" height="288" alt="image" src="https://github.com/user-attachments/assets/9abed588-532e-473a-bf36-1913ffbf8798" />
 
+Screenshot 2: <img width="957" height="296" alt="image" src="https://github.com/user-attachments/assets/2451c334-a485-4fea-969a-0d5706cbd0fd" />
 
-Screenshot 2:
+Ports: 55288 (unassigned port), 53 (DNS)
 
-Ports: 50291 (unassigned port), 53 (DNS)
-
-Conclusion:
+Conclusion: This final DNS query is a IPv6 (Denoted by the AAAA), The Client Host is asking The DNS server if the Server host has a IPv6 Domain Connection listed in the DNS server (consisting of 592 bits), and in turn has responded back with a "true" answer meaning that it has one!(consisting of 1064 bits)

@@ -14,8 +14,7 @@ Relevant packet:
 
 Observation:
 
-Screenshot 1:<img width="970" height="284" alt="image" src="https://github.com/user-attachments/assets/eec89bb5-7126-4fd7-936d-cd67eabebe41" />
-
+Screenshot 1:
 
 Screenshot 2:
 
@@ -56,9 +55,10 @@ Relevant packet: Packet numbers
 
 Observation: The Client Host has sent a query about the Server Host to the DNS server
 
-Screenshot 1:
+Screenshot 1:<img width="970" height="284" alt="image" src="https://github.com/user-attachments/assets/eec89bb5-7126-4fd7-936d-cd67eabebe41" />
 
-Screenshot 2:
+Screenshot 2:<img width="962" height="300" alt="image" src="https://github.com/user-attachments/assets/ae137a22-16ae-4f35-bea2-af5097a84126" />
+
 
 Ports: 
 
